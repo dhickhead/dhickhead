@@ -3,7 +3,11 @@
 Backend Engineer with experience building scalable microservices and REST APIs.
 Strong focus on clean architecture, performance, and maintainable code.
 
+👀 I’m interested in Software Development, Web Development, Mobile Development, IoT Things, and AI
+💞️ I’m looking to collaborate on Create and Develop anything.
+
 ---
+🌱 I’m currently doing Java Development Using Springboot microservices
 
 ## 🛠 Tech Stack
 - **Backend**: Java (Spring Boot), Node.js
@@ -16,20 +20,13 @@ Strong focus on clean architecture, performance, and maintainable code.
 
 ## 🏢 Professional Work
 🔗 **Backend Microservices (Organization)**  
-https://github.com/NAMA-ORGANIZATION
 
-- Designed & developed ~17 microservices
+https://github.com/microservices-Dikara
+
+- Designed & developed microservices
 - Authentication, user management, transaction flow
 - API integration & service-to-service communication
 
----
-
-## 🚀 Selected Projects
-- **Auth Service** – JWT, role-based access  
-- **User Service** – CRUD, validation, pagination  
-- **Order Service** – transaction & workflow handling  
-
-📌 See full list: https://github.com/NAMA-ORGANIZATION?tab=repositories
 
 ---
 
@@ -43,5 +40,5 @@ https://github.com/NAMA-ORGANIZATION
 ---
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/USERNAME
-- Email: your.email@gmail.com
+- LinkedIn: https://linkedin.com/in/dikaraderandia
+- Email: dikaraderandia.jtk10@gmail.com
