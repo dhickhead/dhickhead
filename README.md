@@ -24,10 +24,17 @@ Strong focus on clean architecture, performance, and maintainable code.
 https://github.com/microservices-Dikara
 
 - Designed & developed microservices
-- Authentication, user management, transaction flow
+- Authentication, user management
 - API integration & service-to-service communication
 
+🔗 **Backend Simple CRUDS **  
 
+https://github.com/dhickhead/simple-cruds-user
+
+- Designed & developed Java Spring Boot 
+- Using JPA , ORM for accessing or query database
+- There is native query too in reposiory
+- using postgresql
 ---
 
 ## 📐 Architecture Highlights
