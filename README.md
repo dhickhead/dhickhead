@@ -17,8 +17,8 @@ Strong focus on clean architecture, performance, and maintainable code.
 - **Architecture**: Microservices, REST API, Clean Architecture
 
 ---
-
-## 🏢 Professional Work
+https://github.com/dhickhead/explore-oop-todolist.git
+## 🏢 My Works
 🔗 **Backend Microservices (Organization)**  
 
 https://github.com/microservices-Dikara
@@ -26,6 +26,15 @@ https://github.com/microservices-Dikara
 - Designed & developed microservices
 - Authentication, user management
 - API integration & service-to-service communication
+
+  🔗 **Backend Simple OOP CRUDS **  
+
+https://github.com/dhickhead/explore-oop-todolist.git
+
+- Using java 17
+- Implement OOP Concept for example like (class, access modifier, import, package, runtime exception, error handling , this keyword, etc
+- Implement Clean Architecture (entity, repository, service)
+- Simple feature todolist using OOP concept (CRUDS)
 
 🔗 **Backend Simple CRUDS **  
 
