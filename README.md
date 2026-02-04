@@ -17,7 +17,7 @@ Strong focus on clean architecture, performance, and maintainable code.
 - **Architecture**: Microservices, REST API, Clean Architecture
 
 ---
-https://github.com/dhickhead/explore-oop-todolist.git
+
 ## 🏢 My Works
 🔗 **Backend Microservices (Organization)**  
 
@@ -26,8 +26,14 @@ https://github.com/microservices-Dikara
 - Designed & developed microservices
 - Authentication, user management
 - API integration & service-to-service communication
+- Swagger
+- Stateless services
+- Centralized configuration
+- Database per service
+- API Gateway pattern
+- Observability (logging & monitoring)
 
-  🔗 **Backend Simple OOP CRUDS **  
+🔗 **Backend Simple OOP CRUDS **  
 
 https://github.com/dhickhead/explore-oop-todolist.git
 
@@ -47,13 +53,18 @@ https://github.com/dhickhead/simple-cruds-user
 ---
 
 ## 📐 Architecture Highlights
+- OOP
+- Springboot
 - Stateless services
 - Centralized configuration
 - Database per service
 - API Gateway pattern
 - Observability (logging & monitoring)
+- Docker
+- Feign
+- Eureka
+- Swagger
 
----
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/dikaraderandia
