@@ -33,7 +33,7 @@ https://github.com/microservices-Dikara
 - API Gateway pattern
 - Observability (logging & monitoring)
 
-🔗 **Backend Simple OOP CRUDS **  
+🔗 **Backend OOP TodoList Application **  
 
 https://github.com/dhickhead/explore-oop-todolist.git
 
